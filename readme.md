@@ -207,7 +207,8 @@ A smart ticket management system that uses AI to automatically categorize, prior
 
 ## 🤝 Contributing
 
-we don't accept contributions for this project, as this is a part of a video and code files needs to given as it is.
+You are allowed to conmtribute
+
 
 ## 🙏 Acknowledgments
 
