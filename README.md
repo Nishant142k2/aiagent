@@ -139,13 +139,6 @@ Create a new feature branch
 Raise a Pull Request
 ```
 ---
-### 👨‍💻 Author
-- Rajveer Sharma
-
-- [GitHub](https://github.com/rajveer-09)
-- [LinkedIn](https://www.linkedin.com/in/rajveer-sharma933/)
-
----
 
 ### 📄 License
 - MIT License
